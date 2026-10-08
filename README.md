@@ -157,19 +157,19 @@ The findings provide descriptive insights into factors associated with hospital 
 ## Project Visualizations
 
 ### Age vs Readmission
-![Age vs Readmission](screenshots/age_vs_readmission.png)
+![Age vs Readmission](screenshots/Screenshot%202026-10-08%20142007.png)
 
 ### Medication Change vs Readmission
-![Medication Change vs Readmission](screenshots/medication_change_vs_readmission.png)
+![Medication Change vs Readmission](screenshots/Screenshot%202026-10-08%20142020.png)
 
 ### Race and Gender vs Readmission
-![Race and Gender vs Readmission](screenshots/race_gender_vs_readmission.png)
+![Race and Gender vs Readmission](screenshots/Screenshot%202026-10-08%20142036.png)
 
 ### Medical Specialty vs Hospital Stay
-![Medical Specialty vs Hospital Stay](screenshots/medical_specialty_vs_hospital_stay.png)
+![Medical Specialty vs Hospital Stay](screenshots/Screenshot%202026-10-08%20142044.png)
 
 ### Emergency Visits vs Readmission
-![Emergency Visits vs Readmission](screenshots/emergency_visits_vs_readmission.png)
+![Emergency Visits vs Readmission](screenshots/Screenshot%202026-10-08%20142052.png)
 
 ### Number of Medications vs Hospital Stay
-![Number of Medications vs Hospital Stay](screenshots/number_of_medications_vs_hospital_stay.png)
+![Number of Medications vs Hospital Stay](screenshots/Screenshot%202026-10-08%20142058.png)
