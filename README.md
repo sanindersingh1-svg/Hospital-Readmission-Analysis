@@ -153,3 +153,26 @@ The Excel workbook contains:
 This project demonstrates the use of Microsoft Excel for healthcare data analysis, including data preparation, PivotTable analysis, correlation analysis, visualization, interpretation, and business recommendations.
 
 The findings provide descriptive insights into factors associated with hospital readmission while highlighting important data-quality and analytical limitations.
+
+## Project Visualizations
+
+### Age vs Readmission
+![Age vs Readmission](screenshots/Screenshot%202026-10-08%20142007.png)
+
+### Medical Specialty vs Hospital Stay
+![Medical Specialty vs Hospital Stay](screenshots/Screenshot%202026-10-08%20142020.png)
+
+### Emergency Visits vs Readmission
+![Emergency Visits vs Readmission](screenshots/Screenshot%202026-10-08%20142036.png)
+
+### Race and Gender vs Readmission
+![Race and Gender vs Readmission](screenshots/Screenshot%202026-10-08%20142044.png)
+
+### Weight vs Readmission
+![Weight vs Readmission](screenshots/Screenshot%202026-10-08%20142052.png)
+
+### Outpatient Visits vs Readmission
+![Outpatient Visits vs Readmission](screenshots/Screenshot%202026-10-08%20142058.png)
+
+### Comorbidity vs Hospital Stay
+![Comorbidity vs Hospital Stay](screenshots/Screenshot%202026-10-08%20142220.png)
